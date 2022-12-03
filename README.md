@@ -2,9 +2,8 @@
 
 I am a student and later intended to work remotely and travel a lot.
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&src=href="ali_6017@mail.ru" alt="email")](src="href=ali_6017@mail.ru" alt="email")
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&src=href=ali_6017@mail.ru)](src=href=ali_6017@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/@mukhammadali-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Mukhammad_Ali_1950)](https://t.me/Mukhammad_Ali_1950) 
+
+[![Telegram Badge](https://img.shields.io/badge/@mukhammadali-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ali_jalilov1943)](https://t.me/ali_jalilov1943) 
 
 ## ⚡ Technologies
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
